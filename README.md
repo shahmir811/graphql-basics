@@ -10,8 +10,8 @@ Install dependencies
 npm install
 ```
 
-After that open the following link and you will get a GraphQL playground
+After that run the following and you will get a GraphQL playground at http://localhost:4000
 
 ```bash
-http://localhost:4000
+npm run start
 ```
